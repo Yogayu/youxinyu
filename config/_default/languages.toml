@@ -5,16 +5,54 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+  title = "主页"
+  [zh.params]
+    description = "Site description in Chinese..."
+  [[zh.menu.main]]
+    name = "关于"
+    url = "#about"
+    weight = 1
+
+  [[zh.menu.main]]
+    name = "博客"
+    url = "http://data2art.com"
+    weight = 20
+
+  [[zh.menu.main]]
+    name = "技能"
+    url = "#skills"
+    weight = 21
+
+  [[zh.menu.main]]
+    name = "教育"
+    url = "#eduaction"
+    weight = 31
+
+  [[zh.menu.main]]
+    name = "实习经验"
+    url = "#experience"
+    weight = 40
+
+  [[zh.menu.main]]
+    name = "项目"
+    url = "#projects"
+    weight = 50
+
+
+  # Link to a PDF of your resume/CV from the menu.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  [[zh.menu.main]]
+      name = "简历"
+      url = "files/YouXinyu_Resume.pdf"
+      weight = 70
+
+  [[zh.menu.main]]
+    name = "English"
+    url = "/"
+    weight = 50
