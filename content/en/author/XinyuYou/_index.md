@@ -57,10 +57,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://twitter.com/yxydiscovery"
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "blogger-b"
+  icon_pack = "fab"
+  link = "http://data2art.com"
 
 [[social]]
   icon = "github"
@@ -87,7 +87,7 @@ Because I enjoyed the process of implementing my ideas by hand, I began to devel
 
 Now, the wave of artificial intelligence is here. In simple terms, for traditional software, most of it is logical coding. We write code to teach computer how to do each step. It's Clear, concise, and elegant.
 
-While AI gives the machine certain self-study ability, which is learnning from data, somehow like humans, learning from mistakes, iteratively reducing the probability of making mistakes. It's interesting, isn't it? Data Science gives us new insights.
+While AI gives the machine certain self-study ability, which is learnning from data, somehow like humans, learning from mistakes, iteratively reducing the probability of making mistakes. Data Science gives us new insights. It's interesting, isn't it? 
 
 This is why I fall in love with CS.
 
@@ -99,7 +99,7 @@ What I am doing Now?
 - Write technical blog.
 - Learning data analysis and machine learning.
 - Review algorithms and data structures.
-- A mysterious iOS APP is being completed, which is expected to be available by the end of may.
+- Crafting a mysterious iOS APP, which is expected to be available by the end of may.
 - Take pictures, take pictures, take pictures. Occasionally photography.
 
 Update 05/16/2019
