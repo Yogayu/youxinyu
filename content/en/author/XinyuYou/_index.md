@@ -19,7 +19,7 @@ role = "Postgraduate Student of Computer Science"
 bio = "To create, to experience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "yxydiscovery@gmail.com"
+email = "youxinyu07@gmail.com"
 
 # List (academic) interests or hobbies
 #interests = [
@@ -50,7 +50,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:yxydiscovery@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:youxinyu07@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
