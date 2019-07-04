@@ -94,12 +94,8 @@ This is why I fall in love with CS.
 ---
 What I am doing Now?
 
-- Starting my journey of Google Summer of Code 2019, I will complete a deep learning course for humanists.
-- Continue work with my postgraduate project: intended to effectively apply static code analysis to guide and improve student code quality.
-- Write technical blog.
-- Learning data analysis and machine learning.
-- Review algorithms and data structures.
-- Crafting a mysterious iOS APP, which is expected to be available by the end of may.
-- Take pictures, take pictures, take pictures. Occasionally photography.
+- Writing a deep learning course for humanists (GSoC Project). It's a lot of reading and research, but it's satisfying to write a course.
+- Participate in an algorithm contest with my friends.
+- Crafting a mysterious iOS APP.
 
-Update 05/16/2019
+Update 07/04/2019

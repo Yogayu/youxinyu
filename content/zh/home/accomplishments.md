@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   #organization = "Coursera"
   organization_url = "https://www.coursera.org"
+  title = "前 8 (30+ 队伍) | 最佳创客奖 HacKFun华中黑客马拉松"
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2019-05-28"
+  date_end = ""
+  description = ""
+
+[[item]]
+  #organization = "Coursera"
+  organization_url = "https://www.coursera.org"
   title = "前 1.5% | 重庆大学优秀毕业设计"
   url = ""
   #certificate_url = "https://www.coursera.org"

@@ -26,10 +26,9 @@ date_format = "Jan 2006"
   date_end = "2019-08-15"
   description = """
   Design and develop an online deep learning course for humanists
-  
-  * 1,276 out of over 31,000 applicants(4.1%) chosen to be a participant
-  * Mentor:Francis Steen,MarkTurner and Rajesh Kasturirangan
-  * Repo: [yogayu/deepLearningCourse](https://github.com/yogayu/deepLearningCourse)
+  - 7,555 applications submitted by 31,000 registered participants, only 1,276 (4.1\%) were accepted
+  - Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
+  - Repo: https://github.com/yogayu/deepLearningCourse
   """
 
 [[experience]]
@@ -40,8 +39,8 @@ date_format = "Jan 2006"
   date_start = "2017-04-30"
   date_end = "2016-12-01"
   description = """
-  * Worked in the innovation business technology team
-  * Designed, developed, and tested multiple features for social App Tieba with 600 million users
+  - Implemented and fixed iOS client video module related functions: video release page, live display page, video player and data log, etc
+  - Optimized and developed automatic page refresh strategy and page preload list data strategy to effectively improve user experience
   """
 
 [[experience]]
@@ -52,9 +51,10 @@ date_format = "Jan 2006"
   date_start = "2016-07-01"
   date_end = "2016-11-30"
   description = """
-  * Participate in Douban Summer Camp
-  * Designed, developed, and tested multiple features for music App Douban FM
-  * Investigated in iOS HotFix technology
+  - [Participated in the douban summer camp](http://data2art.com/douban-intern.html) and shared the experience from entry to the first App on the shelves
+  - Investigated iOS hotfix tools such as JSPatch, waxPatch and Rollout, and created JSPatch hotfix Demo
+  - Developed record page related requirements: customized list display, favorites, album details, comments, etc
+  - Optimized and fixed the iPad version App: redesigned the overall UI framework, adapt 10+ page layout and interaction
   """
 
 #[[experience]]

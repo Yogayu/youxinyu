@@ -25,11 +25,10 @@ date_format = "Jan 2006"
   date_start = "2019-05-09"
   date_end = "2019-08-15"
   description = """
-  设计并实现针对人文主义者的深度学习课程。
-  
-  * 参与人数超过 31,000，录用人数为 1,276 (4.1%)
-  * 导师: Francis Steen, MarkTurner and Rajesh Kasturirangan
-  * 项目仓库: [yogayu/deepLearningCourse](https://github.com/yogayu/deepLearningCourse)
+  共31,000人注册，5606个学生提交了 7,555 份申请，其中仅 1,276 个申请被谷歌接收
+  - 设计并完成一套面向人文主义者的深度学习课程（全英文）：包含深度学习感知机，前馈神经网络等基础知识，以及人文领域相关项目实践
+  - 导师：Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
+  - 项目仓库地址：[deepLearningCourse](https://github.com/yogayu/deepLearningCourse)
   """
 
 [[experience]]
@@ -40,8 +39,8 @@ date_format = "Jan 2006"
   date_start = "2017-04-30"
   date_end = "2016-12-01"
   description = """
-  * 工作于创新事业技术部
-  * 为拥有上亿用户的社交应用贴吧，设计，开发并测试多项功能。
+  - 实现并修复 iOS 客户端直播和视频模块相关功能：视频发布页，直播展示页，视频播放器，数据埋点等
+  - 优化并实现直播页面自动刷新策略，和页面预加载列表数据策略，有效提高用户体验
   """
 
 [[experience]]
@@ -52,9 +51,10 @@ date_format = "Jan 2006"
   date_start = "2016-07-01"
   date_end = "2016-11-30"
   description = """
-  * 参与[豆瓣暑期夏令营](http://data2art.com/douban-intern.html)
-  * 调研 iOS 热修复，适配豆瓣音乐 iPad 版本。
-  * 为豆瓣音乐应用，设计、开发并测试多项功能。
+  - [参与豆瓣暑期夏令营，分享从入门到上架第一款App的经验](http://data2art.com/douban-intern.html)
+  - 调研 JSPatch, waxPatch 和 Rollout 等iOS 热修复工具，实现 JSPatch 热修复 Demo
+  - 实现唱片页面相关需求：自定义列表展示，收藏，专辑详情，评论等
+  - 优化并修复 iPad 版本：整体框架搭建，适配10+页面布局和交互
   """
 
 #[[experience]]

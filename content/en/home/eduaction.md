@@ -40,8 +40,6 @@ date_format = "Jan 2006"
   date_end = "2017-06-30"
   description = """
 
-  - Overall GPA: 3.4 / 4.0
   - 2017 TongZhen Scholarship (Top 4%)
-  - 2015 3td Prize Scholarship (Top 15%)
   """
 +++
