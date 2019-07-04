@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_end = "2019-08-15"
   description = """
   Design and develop an online deep learning course for humanists
-  - 7,555 applications submitted by 31,000 registered participants, only 1,276 (4.1\%) were accepted
+  
+  - 7,555 applications submitted by 31,000 registered participants, only 1,276 (4.1%) were accepted
   - Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
   - Repo: https://github.com/yogayu/deepLearningCourse
   """

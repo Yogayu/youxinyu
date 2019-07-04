@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = "2019-08-15"
   description = """
   共31,000人注册，5606个学生提交了 7,555 份申请，其中仅 1,276 个申请被谷歌接收
+  
   - 设计并完成一套面向人文主义者的深度学习课程（全英文）：包含深度学习感知机，前馈神经网络等基础知识，以及人文领域相关项目实践
   - 导师：Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
   - 项目仓库地址：[deepLearningCourse](https://github.com/yogayu/deepLearningCourse)

@@ -7,10 +7,8 @@ layout = "project"
 title = "Pulse App"
 
 # Project summary to display on homepage.
-summary = """Pulse is a clean and beautiful Metronome.It helps you better your music feeling and skill.With Pulse, your play time will be much more joyful. <br>**I independently complete the whole process** from idea, design, coding, propaganda to the shelf."""
-
-App introduction and download site: \href{pulse.data2art.com}{pulse.data2art.com}
-
+summary = """Pulse is a clean and beautiful Metronome.It helps you better your music feeling and skill.With Pulse, your play time will be much more joyful. <br>**I independently complete the whole process** from idea, design, coding, propaganda to the shelf.
+"""
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["iOS"]
