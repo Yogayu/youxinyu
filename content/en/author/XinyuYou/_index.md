@@ -94,8 +94,12 @@ This is why I fall in love with CS.
 ---
 What I am doing Now?
 
-- Writing a deep learning course for humanists (GSoC Project). It's a lot of reading and research, but it's satisfying to write a course.
-- Participate in an algorithm contest with my friends.
-- Crafting a mysterious iOS APP.
+- Participate in an algorithm contest with my friends.(We got 1st place in Hunan Province. The national finals will be held next month.)
+- Crafting an iOS Album APP called Mark Album. (It's on boarding! Waiting for Apple's review. If you are interested, please send me a email, I'll send you the App though testflight.)
+- Seeking for a full time job as software engineer.
 
-Update 07/04/2019
+Done:
+
+- [x] Finished my GSoC Project!
+
+Update 09/28/2019
